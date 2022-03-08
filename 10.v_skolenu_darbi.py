@@ -11,7 +11,8 @@
 #5 Greilihs Dīvs Rihards
 
 #6 Lange Rūdolfs Toms
-
+print(sin(radians(30)+fmod(13,2)))
+#Rindā Nr.14 pievienoju matemātisku darbību sin30+0.5
 #7 Meškonis Aleksandrs Nils
 
 #8 Robežnieks Eduards
